@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Greeicy 👋
 
-<!--
-**Vgreeicy09/Vgreeicy09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Mathematics & Computer Science | UI/UX Enthusiast**
 
-Here are some ideas to get you started:
+I'm a software developer passionate about building useful digital products, solving problems, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in mathematics and computer science shapes the way I approach software development: with logic, curiosity, and a focus on problem-solving.
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, PHP, SQL
+- **Backend:** FastAPI, Django, Laravel, REST APIs
+- **Frontend & Mobile:** React, React Native, Expo
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Postman, VS Code, PyCharm
+- **Design:** Figma, UI/UX Design
+
+### 🚀 What I'm Working On
+
+- Building and improving practical software projects.
+- Strengthening my Python and object-oriented programming skills.
+- Exploring backend architecture, APIs, and database design.
+- Learning through hands-on projects and consistent practice.
+
+### 🎯 My Goals
+
+To build reliable, maintainable software, deepen my technical expertise, and contribute to meaningful digital solutions.
+
+### 🤝 Let's Connect
+
+Feel free to explore my repositories, share feedback, or collaborate on interesting projects.
+
+**Always learning. Always building.**
