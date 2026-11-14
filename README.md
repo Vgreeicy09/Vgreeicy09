@@ -30,4 +30,4 @@ To build reliable, maintainable software, deepen my technical expertise, and con
 
 Feel free to explore my repositories, share feedback, or collaborate on interesting projects.
 
-**Always learning. Always building.**
+**Aim high get real.**
